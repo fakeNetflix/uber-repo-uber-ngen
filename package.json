@@ -23,7 +23,7 @@
   "dependencies": {
     "camelize": "~0.1.2",
     "chalk": "~0.4.0",
-    "minimist": "0.0.8",
+    "minimist": "1.2.5",
     "msee": "~0.1.1",
     "promptly": "~0.2.0",
     "string-template": "~0.1.3",
